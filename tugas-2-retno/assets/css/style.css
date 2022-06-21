@@ -1,0 +1,22 @@
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.custom-navbar-bg{
+    background-color: #ef233c;
+}
+
+.main{
+    background-color: #ebebeb;
+}
+
+footer{
+    padding-top: 15px;
+    color: white;
+    height: 50px;
+    background-color: #ef233c;
+}
